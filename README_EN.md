@@ -22,7 +22,9 @@ Hope the following introductory article that explains some simple logic of quant
 
 [letter](letter.md)  
 
+The following is some market data analysis, including the analysis of KuCoin / KuMex's market difference data with selected exchanges. The data is for reference only.
 
+If the exchange you want to compare is not included, you can contact us by  **ISSUE**.
 
 [Market Analysis Spot](https://github.com/Kucoin-academy/market-analysis-spot)
 
