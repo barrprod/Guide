@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Kucoin-academy/Guide.svg?label=Fork&style=flat-square)](https://github.com/Kucoin-academy/Guide)
 [![GitHub issues](https://img.shields.io/github/issues/Kucoin-academy/Guide.svg?label=Issue&style=flat-square)](https://github.com/Kucoin-academy/Guide/issues)
 
-[![](https://img.shields.io/badge/lang-English-informational.svg?longCache=true&style=flat-square)](README.md)
+[![](https://img.shields.io/badge/lang-English-informational.svg?longCache=true&style=flat-square)](README_EN.md)
 [![](https://img.shields.io/badge/lang-Chinese-red.svg?longCache=true&style=flat-square)](README_CN.md)
 
     这个项目是由kucoin支持，社群交易爱好者共同维护的项目，用于引导更多的人通过在数字货币市场做量化交易来赚取”睡后“收入。
@@ -19,6 +19,18 @@
 这里有一篇入门的文章阐述一些简单的逻辑，希望能够帮助你入门量化交易：
 
 [letter](letter.md)
+
+下面是一些市场数据分析，包含了KuCoin/KuMex与选定交易所的市场差异数据分析，数据仅供参考。
+
+如果其中没有收录你想对比的交易所，你可以提ISSUE联系我们。
+
+[现货市场数据分析](https://github.com/Kucoin-academy/market-analysis-spot)
+
+[期货市场数据分析](https://github.com/Kucoin-academy/market-analysis-swap)
+
+[交割市场数据分析](https://github.com/Kucoin-academy/market-analysis-futures-swap)
+
+[期现市场数据分析](https://github.com/Kucoin-academy/market-analysis-spot-swap)
 
 下面是一些简单的策略，部分策略只有文字描述和说明，部分策略我们实现了简单的demo（只是简单的demo，会有很多bug，要想持续赚钱还需自己优化），仅供大家参考使用：
 
