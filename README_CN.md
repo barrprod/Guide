@@ -22,7 +22,7 @@
 
 下面是一些市场数据分析，包含了KuCoin/KuMex与选定交易所的市场差异数据分析，数据仅供参考。
 
-如果其中没有收录你想对比的交易所，你可以提ISSUE联系我们。
+如果其中没有收录你想对比的交易所，你可以提**ISSUE**联系我们。
 
 [现货市场数据分析](https://github.com/Kucoin-academy/market-analysis-spot)
 
