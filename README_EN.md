@@ -54,3 +54,5 @@ The following are some simple strategies, some of which have only text descripti
 
 [Double Investment Strategy](https://github.com/Kucoin-academy/double-strategy)
 
+[Inter Exchange Spread](https://github.com/Kucoin-academy/inter-exchange-spread)
+
