@@ -53,3 +53,4 @@
 
 [倍投策略](https://github.com/Kucoin-academy/double-strategy)
 
+[跨市套利策略](https://github.com/Kucoin-academy/inter-exchange-spread)
