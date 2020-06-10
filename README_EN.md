@@ -18,9 +18,7 @@ Here is a simple flow chart for getting started:
 
 ![flow_chart](./img/flow_chart.jpg)
 
-Hope the following introductory article that explains some simple logic of quantitative trading could help you get started:  
 
-[letter](letter.md)  
 
 The following is some market data analysis, including the analysis of KuCoin / KuMex's market difference data with selected exchanges. The data is for reference only.
 
@@ -33,6 +31,8 @@ If the exchange you want to compare is not included, you can contact us by  **IS
 [Market Analysis Futures Swap](https://github.com/Kucoin-academy/market-analysis-futures-swap)
 
 [Market Analysis Spot Swap](https://github.com/Kucoin-academy/market-analysis-spot-swap)
+
+
 
 The following are some simple strategies, some of which have only text descriptions and instructions, and some strategies have implemented a simple demo (just a simple demo, there will be many bugs, optimize the strategies to continue making money), for reference only:  
 
